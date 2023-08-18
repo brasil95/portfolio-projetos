@@ -1,10 +1,10 @@
 # Criação da página de Porfólio de Projetos de Ciência de Dados por Victor Brasil
 
-![page_portfolio.jpg](./images/page_portfolio.jpg)
+![page_portfolio2.jpg](./images/page_portfolio2.jpg)
 
 # Acesse o portfólio no link:
 
-* <a href="https://github.com/brasil95">Porfólio de Projetos de Ciência de Dados</a> 🎯
+* <a href="https://brasil95.github.io/portfolio-projetos/">Porfólio de Projetos de Ciência de Dados</a> 🎯
 
 ***
 
